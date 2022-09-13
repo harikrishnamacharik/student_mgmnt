@@ -2,7 +2,7 @@
 lock "~> 3.17.1"
 
 set :application, "student_mgmnt"
-set :repo_url, "git@github.com:harikrishnamachari/root-DESKTOP-MR74FEQ-mnt-c-student_mgmnt.git"
+set :repo_url, "git@github.com:harikrishnamacharik/student_mgmnt.git"
 set :rvm_ruby_version, "ruby 2.7.0p0"
 
 # Default branch is :master
