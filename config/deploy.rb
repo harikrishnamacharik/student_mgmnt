@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.17.1"
 
-set :application, "my_app_name"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :application, "student_mgmnt"
+set :repo_url, "https://github.com/harikrishnamachari/root-DESKTOP-MR74FEQ-mnt-c-student_mgmnt.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
